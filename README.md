@@ -60,7 +60,13 @@ this also contains the same attributes as above
       Randomn Forest
       Decision tree
       Gradient Boosting Classifier
+      
+ ## SCREENSHOT
+ 
+ 
+![ui ss](https://github.com/sam-fdfd/FAKE-AND-REAL-NEWS-DETECTION/assets/103624593/4dbff5c5-1e30-4ed3-9dc5-c65569098bec)
 
+![prediction](https://github.com/sam-fdfd/FAKE-AND-REAL-NEWS-DETECTION/assets/103624593/aabe563b-a0c6-4011-a560-6ae8800eb712)
 
 
 
